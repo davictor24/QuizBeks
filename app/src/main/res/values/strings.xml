@@ -1,0 +1,47 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">QuizBeks</string>
+    <string name="welcome_message">Welcome Guest!</string>
+    <string name="welcome_app_description">Prove your knowledge of the Animal Kingdom</string>
+    <string name="almost_done">Almost Done! </string>
+    <string name="almost_done_2">Just one more.....</string>
+    <string name="thank_you">QuizBeks, says thank you</string>
+    <string name="share_score">Share your score to your friends..</string>
+
+    <string name="start_button">Start</string>
+
+    <string name="question_one">How many hearts does an octopus have?</string>
+    <string name="question_two">What is/are the baby turkey called?</string>
+    <string name="question_three">What is the fastest fish in the Ocean?</string>
+    <string name="question_four">What is a group of lions called?</string>
+    <string name="question_five">Which of the traditional five senses are dolphins believed not to possess?</string>
+
+    <string name="radio_one">one</string>
+    <string name="radio_two">two</string>
+    <string name="radio_three">three</string>
+    <string name="radio_four">four</string>
+
+    <string name="checkbox_one"> jake</string>
+    <string name="checkbox_two">jenny</string>
+    <string name="checkbox_three">Poult</string>
+    <string name="checkbox_four">chick</string>
+
+    <string name="radio_sea_horse">sea horse</string>
+    <string name="radio_sailfish">sailfish</string>
+    <string name="radio_wahoo">wahoo</string>
+    <string name="radio_blue_shark">blue shark</string>
+
+    <string name="request_answer">Type your answer</string>
+    <string name="request_name">Your name...</string>
+
+    <string name="radio_smell">smell</string>
+    <string name="radio_sight">sight</string>
+    <string name="radio_taste">taste</string>
+    <string name="radio_touch">touch</string>
+    <string name="radio_hearing">hearing</string>
+
+    <string name="next">next</string>
+    <string name="view_score">view my score</string>
+    <string name="share_score_btn">share</string>
+    <string name="score_message_rating"><xliff:g example="Excellent" id="rating">%s</xliff:g></string>
+    <string name="score_message"><xliff:g example="you" id="name">%s</xliff:g> got <xliff:g example="2" id="score">%s</xliff:g> out of 5</string>
+</resources>
